@@ -1,0 +1,78 @@
+http://127.0.0.1:7046/miniapp/index.html?sessionId=10df87abfcfe3b6fccf85d1296c4c8694ce67251
+&wsUrl=ws://127.0.0.1:7045
+&openApplicationType=microapp
+&type=microapp
+#miniappOptions={"hostConfig":{"httpProxy":{"host":"","port":""},"hostId":"ide","rootPath":"/Users/wind-stone/Library/Application Support/@byted/vela/public/10df87abfcfe3b6fccf85d1296c4c8694ce67251/file-systems","appDistPath":"/Users/wind-stone/Library/Application Support/@byted/vela/public/10df87abfcfe3b6fccf85d1296c4c8694ce67251/app-dist","resourcePath":"/Users/wind-stone/Library/Application Support/@byted/vela/tempFile/pc-sdk","projectSessionId":"10df87abfcfe3b6fccf85d1296c4c8694ce67251","allowCustomNavigationBar":true,"hideFeedback":false,"hideLogo":false,"hostSessionId":"94300ffed004d2ef62be360022cc66fe","developerSessionId":"94300ffed004d2ef62be360022cc66fe","isSimulatorLogin":true,"checkDomains":true,"networkType":"wifi","mode":"normal","httpEnv":{"type":"online"},"userId":"3727780351338538","mockUpdateType":"Noupdate","enableUpgradeHttp":true},"jssdkUrl":"http://127.0.0.1:7046/core/3.46.0.17","appDistUrl":"http://127.0.0.1:7046/app-dist","launchInfo":{"appId":"tt07e3715e98c9aac0","path":"","scene":"990001","refererInfo":{"appId":"tt07e3715e98c9aac0","extraData":{}}},"systemInfo":{"system":"iOS 15","platform":"devtools","model":"iPhone 15","screenWidth":393,"screenHeight":852,"pixelRatio":3,"statusBarHeight":54,"safeArea":{"left":0,"right":393,"top":59,"bottom":818,"width":393,"height":759},"tabBarHeight":83,"brand":"iPhone","screenRatio":1},"userInfo":{"avatar":"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_8ed7706c422295fa14239d472b417045.jpeg?from=3782654143","userName":"用户6308514367861"},"appJSON":{"industrySDK":false},"env":{"isSandbox":false}}
+
+
+{
+    "hostConfig": {
+        "httpProxy": {
+            "host": "",
+            "port": ""
+        },
+        "hostId": "ide",
+        "rootPath": "/Users/wind-stone/Library/Application Support/@byted/vela/public/10df87abfcfe3b6fccf85d1296c4c8694ce67251/file-systems",
+        "appDistPath": "/Users/wind-stone/Library/Application Support/@byted/vela/public/10df87abfcfe3b6fccf85d1296c4c8694ce67251/app-dist",
+        "resourcePath": "/Users/wind-stone/Library/Application Support/@byted/vela/tempFile/pc-sdk",
+        "projectSessionId": "10df87abfcfe3b6fccf85d1296c4c8694ce67251",
+        "allowCustomNavigationBar": true,
+        "hideFeedback": false,
+        "hideLogo": false,
+        "hostSessionId": "94300ffed004d2ef62be360022cc66fe",
+        "developerSessionId": "94300ffed004d2ef62be360022cc66fe",
+        "isSimulatorLogin": true,
+        "checkDomains": true,
+        "networkType": "wifi",
+        "mode": "normal",
+        "httpEnv": {
+            "type": "online"
+        },
+        "userId": "3727780351338538",
+        "mockUpdateType": "Noupdate",
+        "enableUpgradeHttp": true
+    },
+    "jssdkUrl": "http://127.0.0.1:7046/core/3.46.0.17",
+    "appDistUrl": "http://127.0.0.1:7046/app-dist",
+    "launchInfo": {
+        "appId": "tt07e3715e98c9aac0",
+        "path": "",
+        "scene": "990001",
+        "refererInfo": {
+            "appId": "tt07e3715e98c9aac0",
+            "extraData": {
+
+            }
+        }
+    },
+    "systemInfo": {
+        "system": "iOS 15",
+        "platform": "devtools",
+        "model": "iPhone 15",
+        "screenWidth": 393,
+        "screenHeight": 852,
+        "pixelRatio": 3,
+        "statusBarHeight": 54,
+        "safeArea": {
+            "left": 0,
+            "right": 393,
+            "top": 59,
+            "bottom": 818,
+            "width": 393,
+            "height": 759
+        },
+        "tabBarHeight": 83,
+        "brand": "iPhone",
+        "screenRatio": 1
+    },
+    "userInfo": {
+        "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_8ed7706c422295fa14239d472b417045.jpeg?from=3782654143",
+        "userName": "用户6308514367861"
+    },
+    "appJSON": {
+        "industrySDK": false
+    },
+    "env": {
+        "isSandbox": false
+    }
+}

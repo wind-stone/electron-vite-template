@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>模拟器</title>
+  </head>
+  <body>
+    <div id="simulator">
+      模拟器
+    </div>
+    <script>
+      const urlParams = new URLSearchParams(window.location.search);
+      const directory = decodeURIComponent(urlParams.get('directory'));
+      const gameDirName = directory.split('/').pop();
+      const gameJsUrl = `http://127.0.0.1:3001/${gameDirName}/game.js`;
+      console.log('+++ gameJsUrl', gameJsUrl)
+      document.writeln(`<script src="${gameJsUrl}"><\/script>`);
+    </script>
+    <script type="module" src="./index.ts"></script>
+  </body>
+</html>
